@@ -9,6 +9,7 @@ Tools and Technologies:
 - React
 - HTML, CSS, JS
 - Bootstrap
+- Context API
 
 Contributers: 
 - [İmran Çağla Eyüboğlu](https://github.com/imcagla)
